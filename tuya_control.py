@@ -10,8 +10,8 @@ _pulse_thread = None
 _pulse_running = False
 
 # Tuya credentials (move to env vars in production)
-EMAIL = 'patelvashisth24@gmail.com'
-PASSWORD = 'Tensai123'
+EMAIL = 'youremail@example.com'
+PASSWORD = 'yourpassword'
 COUNTRY_CODE = '49'  # Germany
 LAST_LOGIN_FILE = 'last_login.json'
 
