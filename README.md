@@ -3,6 +3,9 @@ VWT - Galcanic Security System
 A real-time monitoring system using FastAPI, YOLOv8, Tuya smart plugs, and Arduino sensors.
 🔧 Features
 
+<img width="1368" height="761" alt="image" src="https://github.com/user-attachments/assets/2bd94b52-aab6-44c8-92e3-94a795019afd" />
+
+
     Real-time video analysis with YOLOv8 for object detection.
 
     Web-based FastAPI server with WebSocket support.
